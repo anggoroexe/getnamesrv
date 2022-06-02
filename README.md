@@ -9,5 +9,5 @@ USE : bash getserver.sh list
 
 # SCREENSHOT
 <pre>
-![screenshot](https://raw.githubusercontent.com/anggoroexe/getnamesrv/main/img.jpg)
+![](img.jpg)
 </pre>
