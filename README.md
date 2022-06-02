@@ -1,0 +1,2 @@
+# getnamesrv
+just for fun  :,)
