@@ -3,6 +3,6 @@
 remove http:// and https://
 ex : domain.com/url
 btw this tools work if u use marijuana shell 
-<a href="https://twitter.com/anggoro_exe" target="blank">HERE</a>
+<a href="https://raw.githubusercontent.com/0x5a455553/MARIJUANA/master/MARIJUANA.php" target="blank">MARIJUANA SHELL</a>
 USE : bash getserver.sh list
 </pre>
