@@ -8,4 +8,4 @@ USE : bash getserver.sh list
 </pre>
 
 # SCREENSHOT
-![ss]([img.jpg](https://raw.githubusercontent.com/anggoroexe/getnamesrv/main/img.jpeg))
+![screenshot](https://raw.githubusercontent.com/anggoroexe/getnamesrv/main/img.jpeg)
